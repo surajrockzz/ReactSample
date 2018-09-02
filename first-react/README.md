@@ -39,22 +39,22 @@ first-react/
 With the help of the json-server a fake json server is created for serving db.json file to serve images and required content.
 
 ## Components
-  Header
+  #Header <br/>
     consists of banner and Logo. 
 
-  Banner
+  #Banner <br/>
     which consists of Header.
 
-  Home 
+  #Home <br/>
     consists of banner and Albumlist.
 
-  Artists
+  #Artists <br/>
     consists of the banner and cover of artist and biography of artist and AlbumList.
 
-  ArtistList
+  #ArtistList <br/>
     with the help of json-server we fetched the images and the name of artists.
 
-  AlbumList
+  #AlbumList <br/>
     with the help of json-server we fetched the images and the name of albums.
   
   
